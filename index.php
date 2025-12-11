@@ -10,7 +10,7 @@ if (!$chat_id || !$message) {
     exit;
 }
 
-$token = "AQUI_TU_TOKEN";
+$token = "8095300410:AAGpr6PK-M97JWjNiCIVkVW7KkKrer5HAsk";
 
 $url = "https://api.telegram.org/bot$token/sendMessage";
 
